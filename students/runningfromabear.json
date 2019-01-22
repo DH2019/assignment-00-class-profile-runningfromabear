@@ -1,0 +1,14 @@
+{
+  "firstName": "Emily",
+  "lastName": "Montgomery",
+  "nickName": "Annoying",
+  "privateName": false,
+  "picture": "images/runningfromabear.jpg",
+  "privatePicture": false,
+  "email": "emmy.montgomery@mail.utoronto.ca",
+  "privateEmail": false,
+  "github": "runningfromabear",
+  "privateGithub": false,
+  "superpower" : "whinging",
+  "academicinterests": "Stuff and things"
+}
